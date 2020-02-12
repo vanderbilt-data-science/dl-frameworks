@@ -11,6 +11,10 @@ https://towardsdatascience.com/which-deep-learning-framework-is-growing-fastest-
 
 https://www.fast.ai/2019/01/10/swift-numerics/
 
+Try out TensorFlow! Experience with simple neural nets
+http://playground.tensorflow.org
+
+
 ## Compute Environments
 
 https://colab.research.google.com/ is the simplest way to get started with
